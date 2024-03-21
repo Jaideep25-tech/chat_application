@@ -36,7 +36,7 @@ To get started with this project, follow these simple steps:
   
 - [Flutter Packages](https://pub.dev/flutter/packages): Explore the official Flutter packages repository to discover additional packages that you can integrate into your Flutter projects to enhance functionality.
 
-- [GitHub Repository](https://github.com/your_username/flutter-chat-app): You can find the source code for this project on GitHub. Feel free to fork the repository, open issues, and contribute to make it even better!
+- [GitHub Repository](https://github.com/Jaideep25-tech/chat_application): You can find the source code for this project on GitHub. Feel free to fork the repository, open issues, and contribute to make it even better!
 
 ### Support and Feedback
 
